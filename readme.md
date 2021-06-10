@@ -3,7 +3,7 @@ hellonavi-daft: A theme for Plymouth
 
 was having trouble with a giftoplymouth thing, but this one worked, and convieniently was configured exactly the same way I needed, because we both used the same base gif
 
-![ Alt text](navi-1920x1080.gif) / ! [](navi-1920x1080.gif)
+![ Alt text](navi-1920x1080.gif)
 
 Thanks/Credits
 --------------
